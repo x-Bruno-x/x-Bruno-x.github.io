@@ -1,8 +1,8 @@
-﻿body
-{
+﻿body {
     background-color: black;
+    font: 100% Courier New;
 }
 * {
-    color: lawngreen;
+    color: #84c754;
     text-align: center;
 }
