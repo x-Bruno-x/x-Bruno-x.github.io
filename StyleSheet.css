@@ -5,4 +5,19 @@
 * {
     color: #84c754;
     text-align: center;
+    box-sizing: border-box;
 }
+header {
+    font-size: large
+}
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+@media (max-width: 600px) {
+    section {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
