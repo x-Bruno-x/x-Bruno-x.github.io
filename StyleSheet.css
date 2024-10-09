@@ -3,18 +3,20 @@
     font: 100% Courier New;
 }
 * {
-    color: #84c754;
+
     text-align: center;
     box-sizing: border-box;
 }
 header {
-    font-size: large
+    font-size: large;
+    color: #84c754;
 }
 footer {
     background-color: #777;
     padding: 10px;
     text-align: center;
-    color: white;
+    color: darkgreen;
+
 }
 article {
     border: 2px dotted #a8d5ba;
@@ -24,6 +26,7 @@ article {
     margin-top: 60px;
     margin-bottom: 60px;
     line-height: 1.6;
+    color: #84c754;
 }
 img {
     border-radius: 50%;
