@@ -16,9 +16,17 @@ footer {
     text-align: center;
     color: white;
 }
+article {
+    background-color: #f0f0f0; 
+    border: 2px dotted #a8d5ba;
+    padding: 30px;
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
 @media (max-width: 600px) {
-    section {
-        -webkit-flex-direction: column;
-        flex-direction: column;
-    }
+        section {
+            -webkit-flex-direction: column;
+            flex-direction: column;
+        }
 }
