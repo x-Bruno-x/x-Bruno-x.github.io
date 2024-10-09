@@ -17,10 +17,12 @@ footer {
     color: white;
 }
 article {
-
     border: 2px dotted #a8d5ba;
     padding: 30px;
-    margin: 20px 0;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
     line-height: 1.6;
 }
 img {
